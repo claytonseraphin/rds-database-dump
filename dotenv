@@ -1,0 +1,4 @@
+HOST=xxxxxxxxx.your-aws-region.rds.amazonaws.com
+USERNAME=your-db-username
+PASSWORD=your-db-password
+PORT=3306
